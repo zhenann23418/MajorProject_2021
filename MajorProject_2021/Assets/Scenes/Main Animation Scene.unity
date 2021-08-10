@@ -139,7 +139,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &120810330
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1125,8 +1125,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Scanning... Please wait. '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
+  m_sharedMaterial: {fileID: 2140032, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1407,6 +1407,8 @@ PlayableDirector:
     value: {fileID: 1412629275}
   - key: {fileID: -4970267341062420844, guid: 2544c207414aba341911504be2128319, type: 2}
     value: {fileID: 2094056982}
+  - key: {fileID: 4564394533344522315, guid: 2544c207414aba341911504be2128319, type: 2}
+    value: {fileID: 120810329}
   m_ExposedReferences:
     m_References: []
 --- !u!1 &1348367544
