@@ -17,10 +17,10 @@ MonoBehaviour:
     ufoLicenseKey: QVRJZk1GLy8vLy8vQUFBQUtNV1E2c29nV1VHR2lkOVV5RVZqdml1QjQ2NS9NVHQ0MmlOSEpXK3ltb1IzdU5IeXQxTUlUODFxdVk4RzkrZmh0bzZ6ekVkRjdFK25UVzBKRlViOFBmUTJ1blR5bll0MjVJL3NaMndJZC9ZSForNlROV2dpQXcxUHZKRklwSHlGVlRucUc5OVBZa3E4UGdWMi9EdVBrdGkvVS81bmJkTnl3TTJoVkNBWDBDcVdJV29NQ3dMRElpMklMa3lLRzJZKy95Q1JGSUk5MDJ5ckRpSTgxNzMxajl3aXNUVlRiMVFFVHBObVBrV252c3JPeDJvcFZob2pBVHlEaGxLOGJPeVJoRXVDYUxnandabTh6aXdiQXpGNmlnQStmTWt0b0cvc1UwWHVaZVVraUZUckhVYTNtZlVmd3h0c0F1UlJLQmU1RVhZYzRVV1c3V0JOSlRXMm9mamFoNXg2RVRGeFl1d0dqL2ducW9mcUNGU1A=
     delayedInitialization: 0
     cameraDeviceModeSetting: -1
-    maxSimultaneousImageTargets: 1
+    maxSimultaneousImageTargets: 3
     maxSimultaneousObjectTargets: 1
     virtualSceneScaleFactor: 1
-    useDelayedLoadingObjectTargets: 0
+    useDelayedLoadingObjectTargets: 1
     modelTargetRecoWhileExtendedTracked: 1
     shareRecordingsInITunes: 0
     version: 10.0.12
