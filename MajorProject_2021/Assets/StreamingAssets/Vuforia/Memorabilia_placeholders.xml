@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="New_placeholder" size="1.000000 0.983979" />
     <ImageTarget name="File_Placeholder" size="1.000000 0.870701" />
     <ImageTarget name="Toy_placeholder" size="1.000000 0.750000" />
     <ImageTarget name="hat_placeholder" size="1.000000 0.750000" />
