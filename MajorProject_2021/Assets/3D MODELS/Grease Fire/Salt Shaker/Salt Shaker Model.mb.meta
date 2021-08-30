@@ -1,9 +1,19 @@
 fileFormatVersion: 2
-guid: e7af6a227b1191147b8958ed9a2ce17c
+guid: 4061526db9d40bf4a90eb8380754d550
 ModelImporter:
   serializedVersion: 20101
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: e15f54e9719244d469197e359fbf9371, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: salt_label
+    second: {fileID: 2100000, guid: 49ec32d00fbe850449eed36301cec8fe, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
