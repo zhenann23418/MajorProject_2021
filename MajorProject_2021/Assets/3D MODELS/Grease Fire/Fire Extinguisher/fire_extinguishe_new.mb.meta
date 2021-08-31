@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: bb797940fa595fb4aa996fe541c804e1
+guid: aae7e1b639b70644a8760c56a840d655
 ModelImporter:
   serializedVersion: 20101
   internalIDToNameTable: []
@@ -7,28 +7,28 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: blinn2
-    second: {fileID: 2100000, guid: 5f607578431ce2a46b0ebdf15d9ca6d9, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: blinn3
-    second: {fileID: 2100000, guid: 601d8cacce5143147b272260ec3731c3, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: blinn4
-    second: {fileID: 2100000, guid: 43804095494e66748ace02f4ed3e07cf, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: blinn5
-    second: {fileID: 2100000, guid: a6e7ff055bf32b0469f4184ba8f00422, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: lambert1
     second: {fileID: 2100000, guid: 163bfbdfc444e544d97c762600bae761, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__blinn6
+    second: {fileID: 2100000, guid: 4e8f186d9644a4b48913dcab23b52d83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__blinn7
+    second: {fileID: 2100000, guid: a9ae60b16dbf7744aaeea92cc5f03458, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__blinn8
+    second: {fileID: 2100000, guid: 71b4865fdeb1e194585d7865e2eeb514, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__blinn9
+    second: {fileID: 2100000, guid: 0d51f05025081ec4c9669884b1002d68, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
