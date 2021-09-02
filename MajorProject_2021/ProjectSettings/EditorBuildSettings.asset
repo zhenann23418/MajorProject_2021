@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/SamplesResources/Scenes/0-Main.unity
     guid: a09cb257d566c489595b16ab37547666
+  - enabled: 1
+    path: Assets/Scenes/CPR Scene/CPR Animation Scene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Grease Fire Scene/Grease Fire Animation Scene.unity
+    guid: df30e8183a38f9d4b8303da5bde1285a
   m_configObjects: {}
